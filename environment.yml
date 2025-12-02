@@ -11,5 +11,7 @@ dependencies:
   - requests
   - xarray
   - PyYAML
+  - tqdm
+  - astropy
   - pip:
     - speasy
