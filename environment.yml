@@ -15,3 +15,7 @@ dependencies:
   - astropy
   - pip:
     - speasy
+    - diskcache 
+    - appdirs 
+    - pyistp 
+    - astroquery
