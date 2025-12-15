@@ -13,6 +13,8 @@ dependencies:
   - PyYAML
   - tqdm
   - astropy
+  - scipy
+  - scikit-learn
   - pip:
     - https://sciqlop.lpp.polytechnique.fr/data/software/speasy-1.7.0-py3-none-any.whl
     - diskcache 
